@@ -65,9 +65,7 @@ body {
     z-index: 1;
 }
 
-/* =========================
-   SEARCH BAR
-========================= */
+
 
 .search {
     width: 100%;
@@ -165,9 +163,7 @@ body {
     margin-top: -10px;
 }
 
-/* =========================
-   WEATHER DETAILS
-========================= */
+
 
 .details {
     display: flex;
